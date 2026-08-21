@@ -25,7 +25,7 @@ python 01_hello.py
 - [x] Day 1：环境搭建，第一个程序 `hello world`
 - [x] Day 2：变量、数字/字符串、if 判断
 - [x] Day 3：循环、函数
-- [ ] Day 4：列表、字典
+- [x] Day 4：列表、字典
 - [ ] Day 5：复习 + 独立写 3 个小脚本
 - [ ] Day 6：注册 GitHub、建仓库
 - [ ] Day 7：commit / push 上传第一个版本
@@ -37,3 +37,4 @@ python 01_hello.py
 | `01_hello.py` | 第一个程序 |
 | `02_basics.py` | 掌握变量、数字/字符串、if 判断 |
 | `03_guess_num.py` | 猜数字游戏 + 九九乘法表（函数封装） |
+| `04.py` | 待办事项清单（tkinter 界面 + 字典存储） |
