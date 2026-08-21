@@ -16,3 +16,6 @@ Thumbs.db
 
 # 日志
 *.log
+
+# 运行时数据
+todo.json
