@@ -16,3 +16,4 @@
 | 1 | 两数之和 | 简单 | `01_two_sum.py` | | |
 | 9 | 回文数 | 简单 | `09_palindrome.py` | | |
 | 14 | 最长公共前缀 | 简单 | `14_longest_common_prefix.py` | | |
+| 20 | 有效的括号 | 简单 | `20_valid_parentheses.py` | | |
