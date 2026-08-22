@@ -17,3 +17,4 @@
 | 9 | 回文数 | 简单 | `09_palindrome.py` | | |
 | 14 | 最长公共前缀 | 简单 | `14_longest_common_prefix.py` | | |
 | 20 | 有效的括号 | 简单 | `20_valid_parentheses.py` | | |
+| 217 | 存在重复元素 | 简单 | `217_contains_duplicate.py` | | |
